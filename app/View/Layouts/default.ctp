@@ -217,7 +217,7 @@ pre {
         <div class="row">
           <section class='col-xs-12 col-sm-6 col-md-6'>
             <section>
-              <h2>Sam's Edit 2</h2>
+              <h2>Sam's Edit 5</h2>
                 <p>For instructions on how to use this application with OpenShift, start by reading the <a href="http://docs.openshift.org/latest/dev_guide/templates.html#using-the-quickstart-templates">Developer Guide</a>.</p>
 
               <h2>Deploying a new code change</h2>
