@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your CakePHP application on OpenShift</h1>
+            <h1>Welcome to Sam's Cake php</h1>
           </hgroup>
 
 
@@ -229,7 +229,7 @@ pre {
 <ol>
   <li>From the Web Console homepage, navigate to your project</li>
   <li>Click on Browse &gt; Builds</li>
-  <li>From the view for your Build click on the button to copy your GitHub webhook</li>
+
   <li>Navigate to your repository on GitHub and click on repository settings &gt; webhooks</li>
   <li>Paste your webhook URL provided by OpenShift &mdash; that's it!</li>
 </ol>
