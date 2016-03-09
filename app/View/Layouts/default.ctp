@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to Sam's Cake php</h1>
+            <h1>Welcome to Sam's NEW!! Cake php</h1>
           </hgroup>
 
 
